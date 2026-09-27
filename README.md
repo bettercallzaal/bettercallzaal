@@ -1,51 +1,80 @@
 ## Zaal Panthaki
 
-I run The ZAO, a music and community ecosystem, and I build the software it runs on.
+I run **The ZAO**, and I build the software it runs on.
 
-Most of what is here is not a product. It is an estate of small tools that watch
-each other, argue with each other, and refuse to report a number they cannot
-measure.
+### What The ZAO is
 
-### What is live
+A music ecosystem built around one idea: the people who make the thing should
+be visible in it and paid by it. Not a label, not a platform play. A set of
+places where artists perform, get credited, and get settled.
+
+It runs as real events with software underneath, rather than software hoping to
+find an audience:
 
 | | |
 |---|---|
-| The ZAO | https://thezao.com |
-| ZAOstock, the festival | https://zaostock.com |
-| WaveWarZ, music battles with on-chain prediction | https://wavewarz.com |
-| poidhz, bounties | https://poidhz.com |
-| Today, what I am actually working on | https://thezao.xyz/today |
-| Repo dashboard, all of it counted | https://bettercallzaal.github.io/zao-repos/ |
+| **ZAOstock** | A festival. The next one is 3 October 2026 in Ellsworth, Maine: eight acts, a street parklet, noon to six, then an evening set indoors. |
+| **WaveWarZ** | Music battles where the audience takes a position on the outcome on-chain, and the settlement pays the artists directly. |
+| **COC Concertz** | Live shows. |
+| **ZAO Fractal** | Weekly governance sessions. Contribution is scored by the people in the room, and the resulting Respect is weight to vote, not a thing to sell. |
+| **poidhz** | Bounties. Post a task, prove it was done, get paid. |
+| **ZABAL Gamez** | Builder battles and workshops, for people shipping rather than watching. |
+| **FISHBOWLZ** | Listening sessions. |
 
-### The estate, measured 2026-09-27
+### What I am doing right now
 
-131 public repositories across two accounts, 110 live and 21 archived. The
-dashboard above is built from the GitHub API rather than written by hand, so it
-is as current as its last run and says so on the page.
+Running ZAOstock on 3 October, and building the layer that makes the next one
+cheaper to run than the last one. Every festival so far has produced a pile of
+knowledge that lived in one person's head. This one is producing files.
 
-These numbers go stale. The link does not.
+### How we are moving
 
-### How it actually works
+Three things, in order of how much they change:
 
-A set of agent lanes, each owning one repository or one domain, coordinating
-through a shared vault of markdown files. Rules that have earned their place by
-catching something:
+**1. Artists first, structurally.** The payout is in the mechanism rather than
+in a promise. WaveWarZ settles to the artist from the battle itself. The
+festival books, credits, and pays. Where a thing cannot pay yet, it says so.
+
+**2. Write it down, then automate it.** The whole estate runs on a shared vault
+of markdown that agents and people both read. A decision gets a file with the
+reasoning and the date. A number gets the command that produced it. When
+something breaks twice, it gets a tool instead of a reminder.
+
+**3. Nothing publishes itself.** Money, on-chain calls, sending to a human
+outside ZAO, deploys, migrations, permissions: all of those stop and wait for
+a person. Drafting is free. Sending is not.
+
+### The software
+
+Around 130 public repositories across two accounts, most of them small.
+Counted continuously, not by hand:
+
+**https://bettercallzaal.github.io/zao-repos/**
+
+Underneath, a set of agent lanes, each owning one repository or one domain,
+coordinating through that shared vault. The rules that survived are the ones
+that caught something real:
 
 - A peer's diagnosis is not a measurement. Run it before you relay it.
-- A red control must run against a different artifact than the one under test.
-  A suite with no way to point at a broken version has no red control.
-- A selector that is right about what it names can still be wrong about what you
-  wanted. Say the count out loud, and say what you expected it to be.
-- A figure whose inputs cannot be obtained again is a memory, not a measurement.
-- An empty result and a broken query look identical. Feed the filter something it
-  must find before believing it found nothing.
+- A test that has never failed has not been shown to work. Point it at the
+  broken version first.
+- A filter that is right about what it names can still be wrong about what you
+  wanted. Say the count out loud, and say what you expected.
+- A figure whose inputs cannot be obtained again is a memory, not a
+  measurement.
+- An empty result and a broken query look identical. Feed the filter something
+  it must find before believing it found nothing.
 
-The last one has a tool rather than a rule, because a rule nobody can run is a
+The last one has a tool rather than a rule, because a rule nobody runs is a
 rule that gets skipped.
 
-### Brands
+### Live
 
-The ZAO, WaveWarZ, COC Concertz, ZABAL Gamez, FISHBOWLZ, ZAO Fractal, poidhz.
+The ZAO https://thezao.com
+ZAOstock https://zaostock.com
+WaveWarZ https://wavewarz.com
+poidhz https://poidhz.com
+What I am working on today https://thezao.xyz/today
 
 ### Elsewhere
 
