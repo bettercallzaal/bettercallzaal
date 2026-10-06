@@ -4,7 +4,7 @@
 
 > The people who create the value should own their profit margin, their audience data and their intellectual property.
 
-I founded [The ZAO](https://thezao.com), co-founded [WaveWarZ](https://wavewarz.info), and organized [ZAOstock](https://zaostock.com), a free music festival held on 3 October 2026. I run all of it with a small team and a fleet of Claude Code agents that I direct, review and answer for.
+I founded [The ZAO](https://thezao.com), co-founded [WaveWarZ](https://wavewarz.com), and organized [ZAOstock](https://zaostock.com), a free music festival held on 3 October 2026. I run all of it with a small team and a fleet of Claude Code agents that I direct, review and answer for.
 
 ## Find your way
 
@@ -23,9 +23,9 @@ I founded [The ZAO](https://thezao.com), co-founded [WaveWarZ](https://wavewarz.
 
 | | What it is | My part | Links |
 |---|---|---|---|
-| **The ZAO** | An independent music and creator community where artists keep their margin, data and rights. Weekly governance, live shows, a daily newsletter. | Founder | [thezao.com](https://thezao.com) / [Newsletter](https://paragraph.com/@thezao) |
+| **The ZAO** | An independent music and creator community where artists keep their margin, data and rights. Governance, live shows, a daily newsletter. | Founder | [thezao.com](https://thezao.com) / [Newsletter](https://paragraph.com/@thezao) |
 | **ZAOstock** | A free, one-day music festival in Ellsworth, Maine. Seven acts played on 3 October 2026, livestreamed on Twitch. | Organizer, MC and stage manager | [zaostock.com](https://zaostock.com) / [Replays](https://www.twitch.tv/zaofestivals/videos) |
-| **WaveWarZ** | Onchain music battles on Solana where the losing artist is still paid. | Co-founder on the ZAO side; I own the analytics | [wavewarz.info](https://wavewarz.info) / [Analytics](https://wwtracker.vercel.app) |
+| **WaveWarZ** | Onchain music battles on Solana where the losing artist is still paid. | Co-founder on the ZAO side; I own the analytics | [wavewarz.com](https://wavewarz.com) / [Analytics](https://wwtracker.vercel.app) |
 | **ZABAL Gamez** | A free, three-month build event for Farcaster creators. Season 1 ran June to August 2026. | Co-owner of the program | [zabalgamez.com](https://zabalgamez.com) / [Results](https://zabalgamez.com/results) |
 | **ZAO OS** | The open monorepo behind the community: app, agent tooling and a public research library. | Direction and review | [GitHub](https://github.com/bettercallzaal/ZAOOS) / [Research](https://github.com/bettercallzaal/ZAOOS/tree/main/research) |
 | **The ZAO bounty board** | Paid bounties on POIDH, judged in public. | I run the rounds | [poidhz.com](https://poidhz.com) |
@@ -91,7 +91,7 @@ How each project was built:
 ## Ways to plug in
 
 ### Artists and musicians
-- Battle on [WaveWarZ](https://wavewarz.info), where both artists are paid.
+- Battle on [WaveWarZ](https://wavewarz.com), where both artists are paid.
 - See who played [ZAOstock](https://zaostock.com/program) and watch the [replays](https://www.twitch.tv/zaofestivals/videos).
 - Join [The ZAO](https://thezao.com) and keep your margin, your data and your rights.
 
@@ -101,7 +101,7 @@ How each project was built:
 - Fork or fix something in [ZAO OS](https://github.com/bettercallzaal/ZAOOS), or read the [research library](https://github.com/bettercallzaal/ZAOOS/tree/main/research).
 
 ### Organizers and community members
-- The ZAO holds a governance meeting every week where members rank each other's contributions and the results settle onchain. Start at [thezao.com](https://thezao.com).
+- The ZAO's governance meeting, started in 2024, is where members rank each other's contributions and the results settle onchain. Start at [thezao.com](https://thezao.com).
 - Read [the papers](https://thezao.xyz/papers), the living documents behind The ZAO, and tell us what is wrong.
 
 ### Founders and partners
