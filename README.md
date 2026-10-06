@@ -1,81 +1,95 @@
-## Zaal Panthaki
+# Zaal Panthaki
 
-I run **The ZAO**, and I build the software it runs on.
+Founder, Operator, and Systems Architect.
 
-### What The ZAO is
+I build **The ZAO**, advise founders through **BetterCallZaal**, and architect the open-source software and autonomous agent systems our estate runs on.
 
-A music ecosystem built around one idea: the people who make the thing should
-be visible in it and paid by it. Not a label, not a platform play. A set of
-places where artists perform, get credited, and get settled.
+Primary hub and portfolio: [bettercallzaal.com](https://bettercallzaal.com) | [thezao.xyz](https://thezao.xyz) | [Live Estate Dashboard](https://bettercallzaal.github.io/zao-repos/)
 
-It runs as real events with software underneath, rather than software hoping to
-find an audience:
+---
 
-| | |
-|---|---|
-| **ZAOstock** | A festival. The next one is 3 October 2026 in Ellsworth, Maine: eight acts, a street parklet, noon to six, then an evening set indoors. |
-| **WaveWarZ** | Music battles where the audience takes a position on the outcome on-chain, and the settlement pays the artists directly. |
-| **COC Concertz** | Live shows. |
-| **ZAO Fractal** | Weekly governance sessions. Contribution is scored by the people in the room, and the resulting Respect is weight to vote, not a thing to sell. |
-| **poidhz** | Bounties. Post a task, prove it was done, get paid. |
-| **ZABAL Gamez** | Builder battles and workshops, for people shipping rather than watching. |
-| **FISHBOWLZ** | Listening sessions. |
+## Executive Summary
 
-### What I am doing right now
+I work at the intersection of music, culture, autonomous AI systems, and web3 mechanisms, with a strict bias toward shipping software and producing physical events in public rather than pitching decks.
 
-Running ZAOstock on 3 October, and building the layer that makes the next one
-cheaper to run than the last one. Every festival so far has produced a pile of
-knowledge that lived in one person's head. This one is producing files.
+The core thesis across all my work is structural: **the people who create the value should own their profit margin, data, and intellectual property.** This conviction originated in the decentralized ownership movements around transparent market mechanics (GME / Superstonk / DRS) and directly informs how I design token mechanics, governance contracts, and agent coordination networks.
 
-### How we are moving
+Under the operating umbrella of **BCZ Strategies LLC**, I run:
+1. **The ZAO:** A decentralized impact network returning profit margin, audience data, and IP rights to artists (music-first).
+2. **BetterCallZaal:** An operator and advisory practice building alongside founders moving into autonomous agents, on-chain mechanisms, and open-source infrastructure.
+3. **Physical Events and Festivals:** Real-world productions including ZAOstock, COC Concertz, and live community assemblies.
+4. **Autonomous Agent Fleets:** A multi-agent estate of specialized coding, research, and governance agents operating continuously across 130+ public repositories.
 
-Three things, in order of how much they change:
+---
 
-**1. Artists first, structurally.** The payout is in the mechanism rather than
-in a promise. WaveWarZ settles to the artist from the battle itself. The
-festival books, credits, and pays. Where a thing cannot pay yet, it says so.
+## Core Competencies and Technical Architecture
 
-**2. Write it down, then automate it.** The whole estate runs on a shared vault
-of markdown that agents and people both read. A decision gets a file with the
-reasoning and the date. A number gets the command that produced it. When
-something breaks twice, it gets a tool instead of a reminder.
+### 1. Autonomous Agent Fleet Orchestration
+- **Multi-Agent Runtimes:** Architect of distributed agent systems across ZOE (executive cortex), Orca (isolated worktree and terminal runtime), Hermes (coding and PR reviewer), and Antigravity (planning and discovery).
+- **Crash-Safe Execution:** Author of durable side-effect protocols including `effect_intents` transactional outboxes, atomic claim locks (`INSERT ... ON CONFLICT DO NOTHING`), and fenced execution leases.
+- **Machine-Readable Proofs:** Implementer of the DreamNet receipt contract (`dreamnet.receipt.v1`), cryptographic `ProofDropV1` evidence anchors, and tamper-evident content hashing (`dreamnet-sorted-json:v0` + SHA-256).
+- **Layered Memory Systems:** Design of cognitive memory stacks separating working context, episodic logs, vector recall, and knowledge graph persistence (Bonfire, Spore).
+- **Human-in-the-Loop Gating:** Structural enforcement where drafting, exploration, and testing are free, but irreversible one-way doors (on-chain transactions, public publishing, external messaging, database migrations) halt for human authorization.
 
-**3. Nothing publishes itself.** Money, on-chain calls, sending to a human
-outside ZAO, deploys, migrations, permissions: all of those stop and wait for
-a person. Drafting is free. Sending is not.
+### 2. On-Chain Mechanisms and Protocol Design
+- **Soulbound Social Governance:** Designed and operate the ZAO Fractal Respect system: non-transferable, non-financialized ERC-20 and ERC-1155 soulbound tokens on Optimism that tie governance power strictly to verified labor and contribution, preventing plutocratic capital takeovers.
+- **Optimistic Execution:** Implemented OREC (Optimistic Respect Execution Contracts) with 72-hour community review and veto windows.
+- **Prediction and Battle Markets:** Architect of WaveWarZ live music battles, utilizing Solana Program Derived Addresses (PDAs) and Base contracts to settle live spectator wagers directly to artist wallets.
+- **Decentralized Media and Storage:** Farcaster protocol integration (Neynar API, Hubs, frame/cast mechanics), Arweave permanent audio metadata and NFT distribution, and XMTP messaging.
 
-### The software
+### 3. Full-Stack Systems Engineering
+- **Frontend and Application:** Next.js 16, React 19, TypeScript, Tailwind CSS, Vanilla CSS design systems, WebSockets, LiveKit audio rooms.
+- **Backend and Data:** Node.js, Python, PostgreSQL, Supabase (Row Level Security, Edge Functions, pgvector), Redis.
+- **DevOps and Workflows:** Git worktree fleet isolation, GitHub Actions serverless cron pipelines, Fly.io deployments, automated CI lint/typecheck/eval gates.
 
-Around 130 public repositories across two accounts, most of them small.
-Counted continuously, not by hand:
+---
 
-**https://bettercallzaal.github.io/zao-repos/**
+## Production Portfolio
 
-Underneath, a set of agent lanes, each owning one repository or one domain,
-coordinating through that shared vault. The rules that survived are the ones
-that caught something real:
+The estate is organized into live production platforms, open-source repositories, and physical event infrastructure:
 
-- A peer's diagnosis is not a measurement. Run it before you relay it.
-- A test that has never failed has not been shown to work. Point it at the
-  broken version first.
-- A filter that is right about what it names can still be wrong about what you
-  wanted. Say the count out loud, and say what you expected.
-- A figure whose inputs cannot be obtained again is a memory, not a
-  measurement.
-- An empty result and a broken query look identical. Feed the filter something
-  it must find before believing it found nothing.
+| Product / Platform | Role | Description and Architecture | Live Surface |
+|---|---|---|---|
+| **The ZAO** | Founder, Architect | Decentralized impact network returning margin, data, and IP to artists. Operates across 100+ unbroken weeks of on-chain Fractal governance. | [thezao.com](https://thezao.com) / [thezao.xyz](https://thezao.xyz) |
+| **WaveWarZ** | Co-Founder, Lead Architect | Live-traded music battles where audiences take on-chain positions on battle outcomes, settling directly to artists. Built on Solana mainnet and Base. | [wavewarz.com](https://wavewarz.com) |
+| **ZAOstock** | Producer, Lead Operator | Independent music festival and street parklet gathering in Ellsworth, Maine (8 acts, live audio, community parklet, local business integration). | [zaostock.com](https://zaostock.com) |
+| **ZAO OS** | Core Developer | Open-source monorepo powering community chat, music curation, proposal voting, and agent control plane. | [zaoos.com](https://zaoos.com) / [GitHub](https://github.com/bettercallzaal/ZAOOS) |
+| **poidhz** | Creator, Maintainer | Decentralized task and bounty network: post an objective, provide cryptographic proof of completion, receive direct payout. | [poidhz.com](https://poidhz.com) |
+| **ZABAL Gamez** | Organizer, Lead Mentor | Three-month builder battle and workshop cohort for developers and artists building in public across web3 and AI. | [zabal.art](https://zabal.art) |
+| **ZAOscout** | Co-Creator | Keyless social research scout using a no-key mirror trio (Redlib, FxTwitter, Haatz) with provider-agnostic LLM synthesis. | [GitHub](https://github.com/ZAODEVZ/ZAOscout) |
+| **COC Concertz** | Producer | Live concert series and artist showcase network. | [thezao.xyz](https://thezao.xyz) |
+| **FISHBOWLZ** | Architect | Live-streamed audio rooms and interactive listening sessions with autonomous agent co-hosts. | [thezao.xyz](https://thezao.xyz) |
 
-The last one has a tool rather than a rule, because a rule nobody runs is a
-rule that gets skipped.
+---
 
-### Live
+## Open Source Estate and Research Library
 
-The ZAO https://thezao.com
-ZAOstock https://zaostock.com
-WaveWarZ https://wavewarz.com
-poidhz https://poidhz.com
-What I am working on today https://thezao.xyz/today
+Everything we build is counted, measured, and maintained in the open:
 
-### Elsewhere
+- **130+ Public Repositories:** Continuously tracked on the live [Estate Dashboard](https://bettercallzaal.github.io/zao-repos/) across `bettercallzaal`, `ZAODEVZ`, and `ZAO-DEVZ`.
+- **2,600+ Research Documents:** An open library of deep audits, benchmarks, and architecture specifications located in [bettercallzaal/ZAOOS/research/](https://github.com/bettercallzaal/ZAOOS/tree/main/research).
+- **Sovereign Context Hub (ICM):** Machine-readable context boxes published via `context.thezao.com` and `bettercallzaal/zao-icm` for zero-hallucination agent grounding.
 
-Farcaster and X as bettercallzaal.
+---
+
+## Operating Principles
+
+The estate runs under four core operational rules:
+
+1. **Measure, don't assert:** A peer's diagnosis is not a measurement. Run it before you relay it. A figure whose inputs cannot be obtained again is a memory, not a measurement.
+2. **Adversarial verification:** A test that has never failed has not been shown to work; point it at the broken version first. A red control must run against a different artifact than the one under test.
+3. **Write it down, then automate it:** The whole estate coordinates through a shared vault of markdown that agents and people both read. When something breaks twice, it gets a tool instead of a reminder.
+4. **Nothing publishes itself:** Drafting is free; sending is not. Irreversible actions (financial movements, on-chain transactions, public publishing, destructive migrations) stop and require explicit human sign-off.
+
+---
+
+## Connect and Work Together
+
+I advise select founders, build custom autonomous agent workflows, and collaborate on decentralized music and media initiatives.
+
+- **Book a Call:** [cal.com/bettercallzaal](https://cal.com/bettercallzaal)
+- **Farcaster:** [@zaal](https://warpcast.com/zaal)
+- **X (Twitter):** [@bettercallzaal](https://x.com/bettercallzaal)
+- **YouTube:** [@bettercallzaal](https://youtube.com/@bettercallzaal)
+- **Daily Build Log:** [thezao.xyz/today](https://thezao.xyz/today)
+- **Email:** Contact via [bettercallzaal.com](https://bettercallzaal.com) or DM on Farcaster/X
