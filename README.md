@@ -1,111 +1,133 @@
-# Zaal Panthaki
+# Zaal Panthaki (@bettercallzaal)
 
-**Community, events and creator-economy operator who ships with AI agents.** Maine, USA. Remote.
+**Community builder, event producer and AI-agent operator.** Maine, USA. Remote.
 
-I build communities, run live events from first booking to livestream, and ship software with Claude Code agents under written rules and a human merge. Founder of [The ZAO](https://thezao.com), co-founder of [WaveWarZ](https://wavewarz.info), and organizer of [ZAOstock](https://zaostock.com), a free music festival held on 3 October 2026. Electrical engineer by training.
+> The people who create the value should own their profit margin, their audience data and their intellectual property.
 
-**Open to: salaried, fully remote roles** in community, developer relations, events, partnerships and AI-agent operations.
+I founded [The ZAO](https://thezao.com), co-founded [WaveWarZ](https://wavewarz.info), and organized [ZAOstock](https://zaostock.com), a free music festival held on 3 October 2026. I run all of it with a small team and a fleet of Claude Code agents that I direct, review and answer for.
 
-[Email](mailto:zaalp99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [Book a call](https://cal.com/bettercallzaal) | [Portfolio: four case studies](https://bettercallzaal.com/portfolio/) | [Resume](https://bettercallzaal.com/resume/)
+## Find your way
 
----
-
-## What I do
-
-| | |
+| If you are | Start here |
 |---|---|
-| **Community** | Founded and run The ZAO, a community of independent artists and creators, with a weekly governance meeting started in 2024. |
-| **Live events** | Lineup, venue, partners, press, radio, day-of operations and livestream. Most recent: ZAOstock, 3 October 2026. |
-| **Developer relations** | Ran a three-month build event for Farcaster creators: recorded workshops, an open build month, public finals, every finalist paid. |
-| **Writing in public** | A daily newsletter on [Paragraph](https://paragraph.com/@thezao), continuous into October 2026, with a written method for keeping it factual. |
-| **Onchain coordination** | Governance, bounties and settlement on Solana, Base and Optimism. |
-| **AI-agent operations** | I run my work through Claude Code agents. Every agent reads the same written rules before it starts, changes arrive as pull requests, and I merge. |
+| **Hiring, or have a gig** | [Work with me](#work-with-me) |
+| **An artist or musician** | [Artists](#artists-and-musicians) |
+| **A developer or builder** | [Builders](#developers-and-builders) |
+| **An organizer or community member** | [Community](#organizers-and-community-members) |
+| **A founder** | [Founders](#founders-and-partners) |
+| **Just curious** | [What I am building](#what-i-am-building) and [the story](#the-story) |
 
 ---
 
-## Selected work
+## What I am building
 
-Each of these has a full case study on my [portfolio](https://bettercallzaal.com/portfolio/): the problem, my role, what I did and what came of it. Where I directed agents instead of writing the code myself, the case study says so.
+| | What it is | My part | Links |
+|---|---|---|---|
+| **The ZAO** | An independent music and creator community where artists keep their margin, data and rights. Weekly governance, live shows, a daily newsletter. | Founder | [thezao.com](https://thezao.com) / [Newsletter](https://paragraph.com/@thezao) |
+| **ZAOstock** | A free, one-day music festival in Ellsworth, Maine. Seven acts played on 3 October 2026, livestreamed on Twitch. | Organizer, MC and stage manager | [zaostock.com](https://zaostock.com) / [Replays](https://www.twitch.tv/zaofestivals/videos) |
+| **WaveWarZ** | Onchain music battles on Solana where the losing artist is still paid. | Co-founder on the ZAO side; I own the analytics | [wavewarz.info](https://wavewarz.info) / [Analytics](https://wwtracker.vercel.app) |
+| **ZABAL Gamez** | A free, three-month build event for Farcaster creators. Season 1 ran June to August 2026. | Co-owner of the program | [zabalgamez.com](https://zabalgamez.com) / [Results](https://zabalgamez.com/results) |
+| **ZAO OS** | The open monorepo behind the community: app, agent tooling and a public research library. | Direction and review | [GitHub](https://github.com/bettercallzaal/ZAOOS) / [Research](https://github.com/bettercallzaal/ZAOOS/tree/main/research) |
+| **The ZAO bounty board** | Paid bounties on POIDH, judged in public. | I run the rounds | [poidhz.com](https://poidhz.com) |
+| **COC Concertz** | A live-show series that began inside The ZAO and now stands as its own brand. | Host and coordinator | [cocconcertz.com](https://cocconcertz.com) |
+| **BetterCallZaal** | My advisory practice for founders moving into AI agents, onchain work and open source. | Me | [bettercallzaal.com](https://bettercallzaal.com) |
 
-### ZAOstock: a free music festival, run end to end
-
-A free, one-day music festival on the Franklin Street Parklet in Ellsworth, Maine, on Saturday 3 October 2026. Seven acts played, and the whole day was livestreamed on Twitch.
-
-- **My role:** organizer and founder of the event, master of ceremonies and stage manager on the day, and on-air guest on local radio beforehand. I made the calls that shaped the event and wrote each one down as a dated decision.
-- **How it was built:** the festival site and stream tooling were built by my team and by agent lanes under my direction.
-- **What came of it:** it happened as planned, outdoors and free. Local radio, the city, a main street organization and the venue next door all took part. Every artist has a permanent page on the site.
-
-[Case study](https://bettercallzaal.com/portfolio/#zaostock) | [zaostock.com](https://zaostock.com) | [Program](https://zaostock.com/program) | [Twitch replays](https://www.twitch.tv/zaofestivals/videos) | [Code](https://github.com/ZAODEVZ/ZAOstock)
-
-### WaveWarZ: onchain music battles where the losing artist is still paid
-
-Two songs go head to head on Solana, listeners back one, and both artists are paid.
-
-- **My role:** co-founder on the ZAO side, alongside the platform developer and the design and marketing lead. I own wwtracker, the public analytics repo that reads the program and treasury on Solana mainnet and decodes it instruction by instruction.
-- **How it was built:** I directed agent lanes to do much of the repository work, under a rule that held: pull requests only, and I merge.
-- **What came of it:** a public explanation of the platform's economics that can be handed to a skeptical reader. It includes a finding that platform revenue ran higher than artist payouts, which I put on the page instead of hiding.
-
-[Case study](https://bettercallzaal.com/portfolio/#wavewarz) | [wavewarz.info](https://wavewarz.info) | [Live analytics](https://wwtracker.vercel.app) | [Code](https://github.com/bettercallzaal/wwtracker)
-
-### ZABAL Gamez, Season 1: a build event for creators
-
-A free, three-month build event for Farcaster creators, run by The ZAO from June to August 2026: recorded workshops, an open build month, and finals decided in head-to-head battles on WaveWarZ.
-
-- **My role:** co-owner of the program. I locked the format, the prize structure and the dates, and made the calls on how the season closed.
-- **How it was built:** I directed the agent lanes that built and maintained the site and its tooling.
-- **What came of it:** each track crowned a champion, every finalist was paid, and the workshops stay up as a permanent library. The results page is honest about its limits.
-
-[Case study](https://bettercallzaal.com/portfolio/#zabal-gamez) | [zabalgamez.com](https://zabalgamez.com) | [Results](https://zabalgamez.com/results) | [Recordings](https://zabalgamez.com/recordings) | [Code](https://github.com/ZAODEVZ/zabalgames)
-
-### The ZAO: the community behind all of it
-
-An independent music and creator community where artists keep their margin, their data and their rights.
-
-- **My role:** founder, host and coordinator of its live shows, and writer and publisher of the daily newsletter. I am the final authority on anything outbound or irreversible: sends, posts, merges and spending stop at me.
-- **How it runs:** weekly governance where members rank each other's contributions and results settle onchain, a bounty board, and a research library kept in the open as long-term memory.
-- **What came of it:** a multi-year record of governance, live events and shipped projects, and three projects that now stand on their own: a festival, a builder event and a battle platform integration.
-
-[Case study](https://bettercallzaal.com/portfolio/#the-zao) | [thezao.com](https://thezao.com) | [Newsletter](https://paragraph.com/@thezao) | [Newsletter code](https://github.com/bettercallzaal/zaoonparagraph) | [Bounty board code](https://github.com/bettercallzaal/poidhz)
+Everything public is on one live page: the [repo dashboard](https://bettercallzaal.github.io/zao-repos/).
 
 ---
 
-## How I work with AI agents
+## Work with me
 
-This is most of my day, and it is public.
+**I am looking for a developer relations role or an agentic / AI-agent operations role: salaried and remote.**
 
-- **One human merge.** Agents open pull requests. They do not merge, post, send or spend. I do.
-- **Written rules, read first.** A live state file, an operating-rules file and a decisions file, one dated file per ruling, in my own words.
-- **Structure over reminders.** Rules enforced by a hook held far better than rules agents were asked to remember, so a failure that keeps recurring gets a tool, not another note.
-- **Checks that can fail.** The most common failure was a tool that reported empty or green when it could not read its source. The answer was a checking tool with its own "could not run" exit code.
+I am also open to part-time gigs. Anything virtual or digital. I am a jack of all trades and can do several of these at once:
 
-Where to look: [ZAO OS](https://github.com/bettercallzaal/ZAOOS), the open monorepo and its [research library](https://github.com/bettercallzaal/ZAOOS/tree/main/research), built with Next.js, React and Supabase. And the [live dashboard](https://bettercallzaal.github.io/zao-repos/) over every public repository.
+| | What I can do for you | Proof |
+|---|---|---|
+| **Community and events** | Build and run a community; produce a live event from first booking to livestream. | [The ZAO](https://bettercallzaal.com/portfolio/#the-zao), [ZAOstock](https://bettercallzaal.com/portfolio/#zaostock) |
+| **Developer relations** | Workshops, a build event with public finals, docs and a recorded library people can come back to. | [ZABAL Gamez](https://bettercallzaal.com/portfolio/#zabal-gamez) |
+| **Promo and marketing** | Promotion, press, local radio, a social rollout and a daily newsletter. | The ZAOstock [press page](https://zaostock.com/press), the [newsletter](https://paragraph.com/@thezao) |
+| **AI agents and automation** | Set up Claude Code agents and the rules, checks and review steps that make them safe to rely on. | [How I work](#how-i-work-with-ai-agents) |
+| **Web and ops builds** | Sites, dashboards and operations tooling, shipped in the open. | [zaostock.com](https://zaostock.com), [WaveWarZ analytics](https://wwtracker.vercel.app) |
 
----
+**Reach me:** [Email](mailto:zaalp99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [Book a call](https://cal.com/bettercallzaal)
 
-## Experience
+**Read more:** [Portfolio, four case studies](https://bettercallzaal.com/portfolio/) | [Resume](https://bettercallzaal.com/resume/)
+
+### Experience
 
 | When | Role | Where |
 |---|---|---|
 | 2023 to now | Founder | The ZAO |
-| 2024 to now | Co-founder, analytics and ZAO integration | WaveWarZ |
-| 2024 to now | Building Automation Technician | The Jackson Laboratory, Bar Harbor, Maine |
+| 2024 to now | Co-founder on the ZAO side: analytics and ZAO integration | WaveWarZ |
+| 2024 to now | Building Automation Technician | A biomedical research institution in Maine |
 | 2022 to 2024 | Automation Engineer | PCC Structurals. Led a $1.5M robotics project that achieved a 7x throughput gain. |
 | 2022 | BS, Electrical Engineering | Rochester Institute of Technology |
 
-After two large organizations, I am looking for a more agile one.
+After two large organizations, I am ready for a more agile one.
 
 **Tools:** Claude Code, Claude API and agents, Next.js, React, Node.js, Supabase, Farcaster SDK, Solana, Base, Vercel, Twitch and livestream production.
 
 ---
 
-## Why I build this way
+## How I work with AI agents
 
-The people who create the value should own their profit margin, their audience data and their intellectual property. That conviction came out of the direct-ownership movement around GME, and it is why The ZAO pays artists directly and does its work in the open.
+I do not hand-write code. I direct AI agent lanes, design the systems they work in, review what they produce and make the calls. That is most of my day, and it is public.
+
+- **One human merge.** Agents open pull requests. They do not merge, post, send or spend. I do.
+- **Written rules, read first.** A live state file, an operating-rules file and a decisions file, with one dated file per ruling in my own words.
+- **Structure over reminders.** Rules enforced by a hook held far better than rules agents were asked to remember, so a failure that keeps recurring gets a tool, not another note.
+- **Checks that can fail.** The most common failure was a tool that reported empty or green when it could not read its source. The answer was a checking tool with its own "could not run" exit code.
+
+How each project was built:
+
+- **ZAOstock:** I organized and ran the event. The festival site and stream tooling were built by my team and by agent lanes under my direction.
+- **WaveWarZ:** the platform has its own developer. I own [wwtracker](https://github.com/bettercallzaal/wwtracker), the public analytics repo, and directed agent lanes to do the repository work under one rule: pull requests only, and I merge.
+- **ZABAL Gamez:** I locked the format, prizes and dates and made the calls. Agent lanes I directed built and maintained [the site](https://github.com/ZAODEVZ/zabalgames).
+- **The ZAO:** I write and publish the newsletter with a co-reviewer, and I am the final authority on anything outbound or irreversible. The [newsletter tooling](https://github.com/bettercallzaal/zaoonparagraph) and [ZAO OS](https://github.com/bettercallzaal/ZAOOS) are built by agent lanes I direct.
 
 ---
 
-## Not here about a job?
+## Ways to plug in
 
-- **Artists and builders:** start at [thezao.com](https://thezao.com), or see the open bounties at [poidhz.com](https://poidhz.com).
-- **Founders:** I advise through BetterCallZaal. [Book a call](https://cal.com/bettercallzaal).
-- **Follow along:** [Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [YouTube](https://youtube.com/@bettercallzaal) | [Twitch](https://twitch.tv/bettercallzaal) | [bettercallzaal.com](https://bettercallzaal.com)
+### Artists and musicians
+- Battle on [WaveWarZ](https://wavewarz.info), where both artists are paid.
+- See who played [ZAOstock](https://zaostock.com/program) and watch the [replays](https://www.twitch.tv/zaofestivals/videos).
+- Join [The ZAO](https://thezao.com) and keep your margin, your data and your rights.
+
+### Developers and builders
+- Pick up a paid bounty on the [bounty board](https://poidhz.com).
+- Watch the [ZABAL Gamez workshops](https://zabalgamez.com/recordings), recorded by builders across the ecosystem.
+- Fork or fix something in [ZAO OS](https://github.com/bettercallzaal/ZAOOS), or read the [research library](https://github.com/bettercallzaal/ZAOOS/tree/main/research).
+
+### Organizers and community members
+- The ZAO holds a governance meeting every week where members rank each other's contributions and the results settle onchain. Start at [thezao.com](https://thezao.com).
+- Read [the papers](https://thezao.xyz/papers), the living documents behind The ZAO, and tell us what is wrong.
+
+### Founders and partners
+- I advise founders moving into AI agents, onchain coordination and open source, through BetterCallZaal.
+- [Book a call](https://cal.com/bettercallzaal).
+
+---
+
+## The story
+
+GameStop and Superstonk are part of my web3 origin story, and I never skip them.
+
+Direct registration means taking your shares off the broker's books and holding them yourself. Self-custody in web3 is the same move: own your keys, own your work. And the whole thing was retail holders standing together against concentrated capital, a community over institutions.
+
+The ZAO is that idea pointed at music. Artists hold their own margin, data and rights. The goal is that the people with social capital decide how things are distributed, not the people with financial capital.
+
+---
+
+## Connect
+
+[Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [YouTube](https://youtube.com/@bettercallzaal) | [Twitch](https://twitch.tv/bettercallzaal) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [Email](mailto:zaalp99@gmail.com) | [bettercallzaal.com](https://bettercallzaal.com)
+
+---
+
+## Disclaimer
+
+<!-- ZAAL: the "I have no idea what I'm doing" image goes on the line below. -->
+
+I never hand-write code, to be honest. Everything here is built by directing AI agents, so I would appreciate any and all fixes and anything that might help me. Feel free to DM me on any social, or tag me anywhere.
