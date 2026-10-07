@@ -16,6 +16,7 @@ I founded [The ZAO](https://thezao.com), co-founded [WaveWarZ](https://wavewarz.
 | **An organizer or community member** | [Community](#organizers-and-community-members) |
 | **A founder** | [Founders](#founders-and-partners) |
 | **Just curious** | [What I am building](#what-i-am-building) and [the story](#the-story) |
+| **Looking for a link** | [All my links](#all-my-links) |
 
 ---
 
@@ -33,6 +34,25 @@ I founded [The ZAO](https://thezao.com), co-founded [WaveWarZ](https://wavewarz.
 | **BetterCallZaal** | My advisory practice for founders moving into AI agents, onchain work and open source. | Me | [bettercallzaal.com](https://bettercallzaal.com) |
 
 Everything public is on one live page: the [repo dashboard](https://bettercallzaal.github.io/zao-repos/).
+
+### ZAO DEVZ, the team GitHub
+
+Most of what The ZAO ships lives at [github.com/ZAODEVZ](https://github.com/ZAODEVZ), the team GitHub for The ZAO. This account holds my own projects and the ZAO OS lab; ZAO DEVZ holds the ones the team builds and runs together.
+
+<!-- ZAAL: one or two lines here, in your own words, on what you are building in ZAO DEVZ and why. -->
+
+| Repo | What it is | Live |
+|---|---|---|
+| [ZAOstock](https://github.com/ZAODEVZ/ZAOstock) | The festival site and its tooling | [zaostock.com](https://zaostock.com) |
+| [zabalgames](https://github.com/ZAODEVZ/zabalgames) | The ZABAL Gamez site | [zabalgamez.com](https://zabalgamez.com) |
+| [ZAOfractal](https://github.com/ZAODEVZ/ZAOfractal) | Home of ZAO Fractal, the weekly Respect Game, Mondays at 6pm EST since 2024 | [zaofractal.vercel.app](https://zaofractal.vercel.app) |
+| [ZAOcowork](https://github.com/ZAODEVZ/ZAOcowork) | The team's shared task board, with a Telegram bot writing to it | [thezao.xyz](https://thezao.xyz) |
+| [zpoidh](https://github.com/ZAODEVZ/zpoidh) | Bounty operations on POIDH: rounds, judging pages, leaderboard | [poidhz.com](https://poidhz.com) |
+| [ZAOscout](https://github.com/ZAODEVZ/ZAOscout) | Read Reddit, X and Farcaster from the command line, with no API keys or login | [Site](https://za-oscout.vercel.app) |
+| [Zuke](https://github.com/ZAODEVZ/Zuke) | Live audio rooms for Farcaster communities, powered by Juke | [zuke.thezao.com](https://zuke.thezao.com) |
+| [ZAOmemberz](https://github.com/ZAODEVZ/ZAOmemberz) | One member profile, anchored to a wallet, that every ZAO app can read | |
+| [ZAO101](https://github.com/ZAODEVZ/ZAO101) | Learn about The ZAO, from the basics up | [101.thezao.com](https://101.thezao.com) |
+| [zaoonparagraph](https://github.com/ZAODEVZ/zaoonparagraph) | The tooling behind the daily newsletter | [Newsletter](https://paragraph.com/@thezao) |
 
 ---
 
@@ -84,7 +104,7 @@ How each project was built:
 - **ZAOstock:** I organized and ran the event. The festival site and stream tooling were built by my team and by agent lanes under my direction.
 - **WaveWarZ:** the platform has its own developer. I own [wwtracker](https://github.com/bettercallzaal/wwtracker), the public analytics repo, and directed agent lanes to do the repository work under one rule: pull requests only, and I merge.
 - **ZABAL Gamez:** I locked the format, prizes and dates and made the calls. Agent lanes I directed built and maintained [the site](https://github.com/ZAODEVZ/zabalgames).
-- **The ZAO:** I write and publish the newsletter with a co-reviewer, and I am the final authority on anything outbound or irreversible. The [newsletter tooling](https://github.com/bettercallzaal/zaoonparagraph) and [ZAO OS](https://github.com/bettercallzaal/ZAOOS) are built by agent lanes I direct.
+- **The ZAO:** I write and publish the newsletter with a co-reviewer, and I am the final authority on anything outbound or irreversible. The [newsletter tooling](https://github.com/ZAODEVZ/zaoonparagraph) and [ZAO OS](https://github.com/bettercallzaal/ZAOOS) are built by agent lanes I direct.
 
 ---
 
@@ -120,9 +140,19 @@ The ZAO is that idea pointed at music. Artists hold their own margin, data and r
 
 ---
 
-## Connect
+## All my links
 
-[Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [YouTube](https://youtube.com/@bettercallzaal) | [Twitch](https://twitch.tv/bettercallzaal) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [Email](mailto:zaalp99@gmail.com) | [bettercallzaal.com](https://bettercallzaal.com)
+**Me:** [bettercallzaal.com](https://bettercallzaal.com) | [Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [YouTube](https://www.youtube.com/@bettercallzaal) | [Twitch](https://www.twitch.tv/bettercallzaal) | [Instagram](https://www.instagram.com/bettercallzaal/) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [Email](mailto:zaalp99@gmail.com) | [Book a call](https://cal.com/bettercallzaal)
+
+**For AI agents:** my context box at [context.thezao.com/bettercallzaal](https://context.thezao.com/bettercallzaal) and The ZAO's at [context.thezao.com/thezao](https://context.thezao.com/thezao). Plain text, written to be read by a model.
+
+**The ZAO:** [thezao.com](https://thezao.com) | [X](https://x.com/TheZAODAO) | [Farcaster /zao](https://farcaster.xyz/~/channel/zao) | [Newsletter](https://paragraph.com/@thezao) | [Events calendar](https://luma.com/zao) | [Team board](https://thezao.xyz) | [The papers](https://thezao.xyz/papers) | [ZAO 101](https://101.thezao.com) | [ZAO Fractal](https://zaofractal.vercel.app) | [Respect tree](https://hats.thezao.com) | [GitHub, ZAO DEVZ](https://github.com/ZAODEVZ)
+
+**ZAO Festivals and ZAOstock:** [zaostock.com](https://zaostock.com) | [X](https://x.com/ZAOFestivals) | [YouTube](https://www.youtube.com/@zaofestivals) | [Twitch replays](https://www.twitch.tv/zaofestivals/videos) | [Merch](https://merch.zaofestivals.com)
+
+**WaveWarZ:** [wavewarz.com](https://wavewarz.com) | [X](https://x.com/WaveWarZ) | [Newsletter](https://paragraph.com/@wavewarz) | [Analytics](https://wwtracker.vercel.app)
+
+**Everything else:** [ZABAL Gamez](https://zabalgamez.com) | [Bounty board](https://poidhz.com) | [COC Concertz](https://cocconcertz.com) | [Zuke](https://zuke.thezao.com) | [ZAO OS](https://github.com/bettercallzaal/ZAOOS) | [Every repo, one page](https://bettercallzaal.github.io/zao-repos/)
 
 ---
 
