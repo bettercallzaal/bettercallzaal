@@ -2,19 +2,23 @@
 
 Three things I build for other people, each with a finished example you can open. I do not hand-write code. I direct AI agents, review what they produce and make the calls, and [that process is public](README.md#how-i-work-with-ai-agents).
 
-Every project is a fixed price, quoted in writing before any work starts. You own what I build: your accounts, your repo, your domain.
+I'm looking for clients. My rate is $100 an hour, and I'm willing to change the price based on need. You own what I build: your accounts, your repo, your domain.
 
-[Book a call](https://cal.com/bettercallzaal) | [Email](mailto:zaalp99@gmail.com) | [Back to profile](README.md)
+[Book the $5 consult](https://buy.stripe.com/PASTE-5-DOLLAR-CONSULT-LINK) | [Email](mailto:zaalp99@gmail.com) | [Back to profile](README.md)
 
-## Start here: a 30-minute consult
+## Start here: a 30-minute consult for $5
 
-Thirty minutes on a call with me. You bring the one problem eating your time. I tell you plainly whether I can help, how I would do it, and what the first step is.
+We talk through what you need. After the call I send you an agenda or a short review of what we would do together, so you can decide with it in hand.
 
-- **Who it is for:** small businesses, artists and teams who want to find out whether working together makes sense.
-- **What you leave with:** a straight answer on whether I can help, and the first step if I can. If we are not a fit, I say so.
-- **Price:** $2 by card, or $1 in crypto (1 USDC on Base). Where to send it is on the booking page. The small charge is there so we both show up.
+- **Who it is for:** small businesses, artists and teams thinking about working with me.
+- **What you get:** the call, then the agenda or review in writing.
+- **Price:** $5.
 
-[Book the consult](https://cal.com/bettercallzaal)
+[Book the $5 consult](https://buy.stripe.com/PASTE-5-DOLLAR-CONSULT-LINK)
+
+## Working together: $100 an hour
+
+I tell you the hours up front, from the agenda. If the rate doesn't work for you, say so and we'll figure it out. Already working with me? [Pay for hours here](https://buy.stripe.com/PASTE-100-DOLLAR-HOUR-LINK).
 
 ## 1. Your site, in your name
 
@@ -76,7 +80,7 @@ For a crypto or music project that wants its numbers public and current.
 ## How it starts
 
 1. Send one line: the one problem eating your time.
-2. Book the consult. If your problem fits one of the three, you get a fixed price and a date in writing after the call.
+2. Book the $5 consult. After the call you get an agenda or review of what we would do together, with the hours.
 3. Work starts when you say yes.
 
 BetterCallZaal Strategies LLC. Based in Maine, working remotely.
