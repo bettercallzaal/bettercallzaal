@@ -40,7 +40,8 @@ I founded [The ZAO](https://thezao.com), co-founded [WaveWarZ](https://wavewarz.
 | **ZABAL Gamez** | A free, three-month build event for Farcaster creators. Season 1 ran June to August 2026. | I set the goals and made the calls | [zabalgamez.com](https://zabalgamez.com) / [Results](https://zabalgamez.com/results) |
 | **ZAO OS** | The lab and open monorepo where new ZAO things are prototyped before they graduate: app, agent tooling and a public research library of more than 2,200 numbered docs as of 11 October 2026. | Direction and review | [zaoos.com](https://zaoos.com) / [GitHub](https://github.com/bettercallzaal/ZAOOS) / [Research](https://github.com/bettercallzaal/ZAOOS/tree/main/research) |
 | **The ZAO bounty board** | Paid bounties on POIDH, judged in public. | I run the rounds | [poidhz.com](https://poidhz.com) |
-| **BCZ YapZ** | Long-form conversations with web3 builders and music-first founders, on the record. | Host | [bczyapz.com](https://bczyapz.com) |
+| **BCZ YapZ** | Long-form conversations with web3 builders and music-first founders, on the record. Every episode is searchable, with its transcript, and each one has its own page by number, live link first and the replay after. | Host | [bczyapz.com](https://bczyapz.com) / [YouTube](https://www.youtube.com/@bettercallzaal) |
+| **ZAO MixZ** | A two-deck DJ app in the browser. DJ MixZ, the bot DJ, mixes a set on its own and hands the decks to a human when they take over; the ZAO crate pulls every artist on SongChainn. Runs a whole stream from a phone. | Direction and testing, built with IMan | [zaomixz.vercel.app](https://zaomixz.vercel.app) |
 | **COC Concertz** | A live-show series that began inside The ZAO and now stands as its own brand. | Host and coordinator | [cocconcertz.com](https://cocconcertz.com) |
 | **BetterCallZaal** | My advisory practice for founders moving into AI agents, onchain work and open source. | Me | [bettercallzaal.com](https://bettercallzaal.com) |
 
@@ -92,6 +93,8 @@ On this account:
 | [poidhz](https://github.com/bettercallzaal/poidhz) | Bounty operations on POIDH: rounds, judging pages, leaderboard | [poidhz.com](https://poidhz.com) |
 | [zaoonparagraph](https://github.com/bettercallzaal/zaoonparagraph) | The tooling behind the daily newsletter | [Newsletter](https://paragraph.com/@thezao) |
 | [wwtracker](https://github.com/bettercallzaal/wwtracker) | The public WaveWarZ analytics | [wwtracker.vercel.app](https://wwtracker.vercel.app) |
+| [bcz-yapz](https://github.com/bettercallzaal/bcz-yapz) | The BCZ YapZ archive: every episode, transcript and topic, searchable | [bczyapz.com](https://bczyapz.com) |
+| [ZAOMixZ](https://github.com/bettercallzaal/ZAOMixZ) | The browser DJ app and DJ MixZ, the bot DJ | [zaomixz.vercel.app](https://zaomixz.vercel.app) |
 | [zao-repos](https://github.com/bettercallzaal/zao-repos) | A live dashboard over every public ZAO repository | [Dashboard](https://bettercallzaal.github.io/zao-repos/) |
 | [zorca](https://github.com/bettercallzaal/zorca) | The layer that organizes many coding agents into lanes with conventions, a ranked board and safety rails | |
 
