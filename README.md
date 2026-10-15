@@ -101,7 +101,7 @@ On this account:
 
 **I am looking for a developer relations role or an agentic / AI-agent operations role: salaried and remote.**
 
-**Not hiring, but have a problem to solve? Start with a 30-minute consult: $2 by card, or $1 in crypto.** You bring the one problem eating your time. I tell you plainly whether I can help and what the first step is. [Book it](https://cal.com/bettercallzaal).
+**Not hiring, but have a project? I'm looking for clients.** $100 an hour, and I'm willing to change the price based on need. Start with a 30-minute consult for $5: after the call I send you an agenda or a short review of what we would do together. [Book the consult](https://buy.stripe.com/PASTE-5-DOLLAR-CONSULT-LINK).
 
 I am also open to part-time gigs. Anything virtual or digital. I am a jack of all trades and can do several of these at once:
 
