@@ -12,7 +12,7 @@ We talk through what you need. After the call I send you an agenda or a short re
 
 - **Who it is for:** small businesses, artists and teams thinking about working with me.
 - **What you get:** the call, then the agenda or review in writing.
-- **Price:** $5. After you pay, I email you to set a time.
+- **Price:** $5. Pay first, then [pick a time on my calendar](https://cal.com/bettercallzaal).
 
 [Book the $5 consult](https://buy.stripe.com/PASTE-5-DOLLAR-CONSULT-LINK)
 
