@@ -111,7 +111,7 @@ I am also open to part-time gigs. Anything virtual or digital. I am a jack of al
 | **AI agents and automation** | Set up Claude Code agents and the rules, checks and review steps that make them safe to rely on. | [How I work](#how-i-work-with-ai-agents) |
 | **Web and ops builds** | Sites, dashboards and operations tooling, shipped in the open. | [zaostock.com](https://zaostock.com), [WaveWarZ analytics](https://wwtracker.vercel.app) |
 
-**Have a project instead of a role?** Three fixed-price packages, each with a finished example: [Services](SERVICES.md).
+**Have a project instead of a role?** Three kinds of work I take on, each with a finished example: [Services](SERVICES.md).
 
 **Reach me:** [Email](mailto:zaalp99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [Book a call](https://cal.com/bettercallzaal)
 
