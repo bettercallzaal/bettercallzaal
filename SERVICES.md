@@ -4,7 +4,7 @@ Three things I build for other people, each with a finished example you can open
 
 I'm looking for clients. My rate is $100 an hour, and I'm willing to change the price based on need. You own what I build: your accounts, your repo, your domain.
 
-[Book the $5 consult](https://buy.stripe.com/PASTE-5-DOLLAR-CONSULT-LINK) | [Email](mailto:zaalp99@gmail.com) | [Back to profile](README.md)
+[Book the $5 consult](https://cal.com/bettercallzaal) | [Email](mailto:zaalp99@gmail.com) | [Back to profile](README.md)
 
 ## Start here: a 30-minute consult for $5
 
@@ -12,13 +12,17 @@ We talk through what you need. After the call I send you an agenda or a short re
 
 - **Who it is for:** small businesses, artists and teams thinking about working with me.
 - **What you get:** the call, then the agenda or review in writing.
-- **Price:** $5. Pay first, then [pick a time on my calendar](https://cal.com/bettercallzaal).
+- **Price:** $5. [Pick a time on my calendar](https://cal.com/bettercallzaal).
 
-[Book the $5 consult](https://buy.stripe.com/PASTE-5-DOLLAR-CONSULT-LINK)
+[Book the $5 consult](https://cal.com/bettercallzaal)
+
+<!-- ZAAL: the $5 Stripe link goes back on both "Book the $5 consult" links once it exists. It was a PASTE placeholder, so it pointed nowhere. -->
 
 ## Working together: $100 an hour
 
-I tell you the hours up front, from the agenda. If the rate doesn't work for you, say so and we'll figure it out. Already working with me? [Pay for hours here](https://buy.stripe.com/PASTE-100-DOLLAR-HOUR-LINK).
+I tell you the hours up front, from the agenda. If the rate doesn't work for you, say so and we'll figure it out. Already working with me? [Email me](mailto:zaalp99@gmail.com) for the payment link.
+
+<!-- ZAAL: the $100 an hour Stripe link goes here once it exists. It was a PASTE placeholder. -->
 
 ## 1. Your site, in your name
 
@@ -69,7 +73,7 @@ For a crypto or music project that wants its numbers public and current.
 
 **How long:** about three weeks.
 
-**Example:** the public [WaveWarZ analytics](https://wwtracker.vercel.app) and [its repo](https://github.com/bettercallzaal/wwtracker).
+**Example:** the public [WaveWarZ analytics](https://wwtracker.vercel.app). The repo behind it is private for now.
 
 ## After a project
 
