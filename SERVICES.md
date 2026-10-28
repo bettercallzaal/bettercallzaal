@@ -4,7 +4,7 @@ Three things I build for other people, each with a finished example you can open
 
 I'm looking for clients. My rate is $100 an hour, and I'm willing to change the price based on need. You own what I build: your accounts, your repo, your domain.
 
-[Book the $5 consult](https://cal.com/bettercallzaal) | [Email](mailto:zaalp99@gmail.com) | [Back to profile](README.md)
+[Ask for the $5 consult](mailto:zaalp99@gmail.com?subject=Consult%20booking) | [Email](mailto:zaalp99@gmail.com) | [Back to profile](README.md)
 
 ## Start here: a 30-minute consult for $5
 
@@ -12,11 +12,11 @@ We talk through what you need. After the call I send you an agenda or a short re
 
 - **Who it is for:** small businesses, artists and teams thinking about working with me.
 - **What you get:** the call, then the agenda or review in writing.
-- **Price:** $5. [Pick a time on my calendar](https://cal.com/bettercallzaal).
+- **Price:** $5. Email me and I send you the payment link. Once you pay, [pick a time on my calendar](https://cal.com/bettercallzaal/30min).
 
-[Book the $5 consult](https://cal.com/bettercallzaal)
+[Ask for the $5 consult](mailto:zaalp99@gmail.com?subject=Consult%20booking)
 
-<!-- ZAAL: the $5 Stripe link goes back on both "Book the $5 consult" links once it exists. It was a PASTE placeholder, so it pointed nowhere. -->
+<!-- ZAAL: once the $5 is taken on the Cal.com event itself (or a Stripe link exists), both "Ask for the $5 consult" links can point straight at it. It was a PASTE placeholder, so it pointed nowhere. -->
 
 ## Working together: $100 an hour
 
@@ -84,7 +84,7 @@ For a crypto or music project that wants its numbers public and current.
 ## How it starts
 
 1. Send one line: the one problem eating your time.
-2. Book the $5 consult. After the call you get an agenda or review of what we would do together, with the hours.
+2. Ask for the $5 consult. I send the payment link, you pay, then you pick a time. After the call you get an agenda or review of what we would do together, with the hours.
 3. Work starts when you say yes.
 
 BetterCallZaal Strategies LLC. Based in Maine, working remotely.
