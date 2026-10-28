@@ -15,10 +15,10 @@ BetterCallZaal is my personal brand and operating layer: build-in-public work, c
 ## Work with me
 
 - **Hiring?** I am looking for a developer relations role or an agentic / AI-agent operations role, salaried and remote. Part-time gigs are welcome too.
-- **Have a project?** I'm looking for clients. $100 an hour, and I'm willing to change the price based on need. Start with a 30-minute consult for $5: after the call I send you an agenda or a short review of what we would do together. [Book the consult](https://cal.com/bettercallzaal), and see the three kinds of work I take on in [Services](SERVICES.md).
+- **Have a project?** I'm looking for clients. $100 an hour, and I'm willing to change the price based on need. Start with a 30-minute consult for $5: after the call I send you an agenda or a short review of what we would do together. [Ask for the consult](mailto:zaalp99@gmail.com?subject=Consult%20booking) and I send you the payment link; once you pay, [pick a time](https://cal.com/bettercallzaal/30min). See the three kinds of work I take on in [Services](SERVICES.md).
 - **Reach me:** [Email](mailto:zaalp99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [Book a call](https://cal.com/bettercallzaal)
 
-<!-- ZAAL: the $5 Stripe link goes back on "Book the consult" once it exists. It was a PASTE placeholder, so it pointed nowhere. -->
+<!-- ZAAL: once the $5 is taken on the Cal.com event itself (or a Stripe link exists), "Ask for the consult" can point straight at it. It was a PASTE placeholder, so it pointed nowhere. -->
 
 **Source of truth:** my context box at [context.thezao.com/bettercallzaal](https://context.thezao.com/bettercallzaal). If anything here disagrees with it, the box wins.
 
