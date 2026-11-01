@@ -18,7 +18,7 @@ BetterCallZaal is my personal brand and operating layer: build-in-public work, c
 
 ## Have a project?
 
-I also take on client work. See the [services and examples](SERVICES.md). For contact, use [the booking page](https://cal.com/bettercallzaal).
+I also take on client work. See the [services and examples](SERVICES.md) for what I offer and how to ask about a consult.
 
 The context box for AI agents is linked under [How I work](#how-i-work-with-ai-agents) and [All my links](#all-my-links).
 
