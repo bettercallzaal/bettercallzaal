@@ -6,21 +6,21 @@ BetterCallZaal is my personal brand and operating layer: build-in-public work, c
 
 - **Events:** I organized and ran [ZAOstock](https://zaostock.com), a free music festival. Seven acts played on 3 October 2026, livestreamed on Twitch.
 - **Developer relations:** I ran [ZABAL Gamez](https://zabalgamez.com/results), a free three-month build event: 31 recorded workshops, 31 projects shipped by 15 people, finals settled in public.
-- **AI-agent operations:** I run a fleet of Claude Code agents under written rules, with one human merge. [How I work](#how-i-work-with-ai-agents), and the repos are public.
+- **AI-agent operations:** I direct Claude Code agents under written rules; their work moves through pull requests. [How I work](#how-i-work-with-ai-agents) and the public repos.
 
 > The people who create the value should own their profit margin, their audience data and their intellectual property.
 
-**[bettercallzaal.com](https://bettercallzaal.com)** | [Portfolio](https://bettercallzaal.com/portfolio/) | [Resume](https://bettercallzaal.com/resume/) | [Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [BCZ YapZ](https://bczyapz.com) | [Book a call](https://cal.com/bettercallzaal)
+**[bettercallzaal.com](https://bettercallzaal.com)** | [Portfolio](https://bettercallzaal.com/portfolio/) | [Resume](https://bettercallzaal.com/resume/) | [Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [BCZ YapZ](https://bczyapz.com) | [Book a call](https://cal.com/bettercallzaal)
 
-## Work with me
+## Looking for my next role
 
-- **Hiring?** I am looking for a developer relations role or an agentic / AI-agent operations role, salaried and remote. Part-time gigs are welcome too.
-- **Have a project?** I'm looking for clients. $100 an hour, and I'm willing to change the price based on need. Start with a 30-minute consult for $5: after the call I send you an agenda or a short review of what we would do together. [Ask for the consult](mailto:zaalp99@gmail.com?subject=Consult%20booking) and I send you the payment link; once you pay, [pick a time](https://cal.com/bettercallzaal/30min). See the three kinds of work I take on in [Services](SERVICES.md).
-- **Reach me:** [Email](mailto:zaalp99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [Book a call](https://cal.com/bettercallzaal)
+- I am looking for a salaried, remote role in developer relations or AI-agent operations. Part-time gigs are welcome too. See my [resume](https://bettercallzaal.com/resume/), [portfolio](https://bettercallzaal.com/portfolio/) and [AI-agent work](#how-i-work-with-ai-agents).
 
-<!-- ZAAL: once the $5 is taken on the Cal.com event itself (or a Stripe link exists), "Ask for the consult" can point straight at it. It was a PASTE placeholder, so it pointed nowhere. -->
+## Have a project?
 
-**Source of truth:** my context box at [context.thezao.com/bettercallzaal](https://context.thezao.com/bettercallzaal). If anything here disagrees with it, the box wins.
+I also take on client work. See the [services and examples](SERVICES.md). For contact, use [email](mailto:zaalp99@gmail.com) or [book a call](https://cal.com/bettercallzaal).
+
+The context box for AI agents is linked under [How I work](#how-i-work-with-ai-agents) and [All my links](#all-my-links).
 
 ---
 
@@ -30,7 +30,8 @@ Everything below is folded. Open what you need.
 
 | If you are | Open |
 |---|---|
-| **Hiring, or have a gig** | [Services, experience and tools](#services-experience-and-tools) |
+| **Hiring** | [Resume](https://bettercallzaal.com/resume/), [portfolio](https://bettercallzaal.com/portfolio/) and [AI-agent work](#how-i-work-with-ai-agents) |
+| **Have a project** | [Services, experience and tools](#services-experience-and-tools) |
 | **An artist or musician** | [Ways to plug in](#ways-to-plug-in) |
 | **A developer or builder** | [Repos](#repos) and [how I work with AI agents](#how-i-work-with-ai-agents) |
 | **An organizer or community member** | [Ways to plug in](#ways-to-plug-in) |
@@ -46,11 +47,11 @@ Everything below is folded. Open what you need.
 
 | | What it is | My part | Links |
 |---|---|---|---|
-| **The ZAO** | A decentralized impact network that returns profit margin, data and IP rights to artists. Music is its first domain. Weekly onchain governance, live shows, a daily newsletter. | Founder | [thezao.com](https://thezao.com) / [Newsletter](https://paragraph.com/@thezao) |
+| **The ZAO** | Works to return artists' profit margin, audience data and IP rights to the people who create the value. Music is its first domain. Weekly onchain governance, live shows, a daily newsletter. | Founder | [thezao.com](https://thezao.com) / [Newsletter](https://paragraph.com/@thezao) |
 | **ZAOstock** | A free, one-day music festival in Ellsworth, Maine. Seven acts played on 3 October 2026, livestreamed on Twitch. | Organizer, MC and stage manager | [zaostock.com](https://zaostock.com) / [Replays](https://www.twitch.tv/zaofestivals/videos) |
 | **ZAO Festivals** | The events arm of The ZAO: ZAO-PALOOZA at NFT NYC, ZAO-CHELLA at Miami Art Basel in December 2024 with a live WaveWarZ battle, and ZAOstock. | Organizer | [X](https://x.com/ZAOFestivals) / [YouTube](https://www.youtube.com/@zaofestivals) |
 | **WaveWarZ** | Onchain music battles on Solana where the losing artist is still paid. Founded and built by Hurric4n3ike. | Co-founder on the ZAO side: ecosystem strategy and partnerships. I own the public analytics. | [wavewarz.com](https://wavewarz.com) / [Analytics](https://wwtracker.vercel.app) |
-| **ZAO Fractal** | The weekly Respect Game: members rank each other's contributions and the results settle onchain. Mondays at 6pm EST, more than 100 weeks unbroken. | I started it in 2024 and run it | [zaofractal.vercel.app](https://zaofractal.vercel.app) |
+| **ZAO Fractal** | The weekly Respect Game: members rank each other's contributions and the results settle onchain. Mondays at 6pm Eastern, weekly since 2024. | I started it in 2024 and run it | [zaofractal.vercel.app](https://zaofractal.vercel.app) |
 | **ZABAL Gamez** | A free, three-month build event for Farcaster creators. Season 1 ran June to August 2026. | I set the goals and made the calls | [zabalgamez.com](https://zabalgamez.com) / [Results](https://zabalgamez.com/results) |
 | **ZAO OS** | The lab and open monorepo where new ZAO things are prototyped before they graduate: app, agent tooling and a public research library of more than 2,200 numbered docs as of 11 October 2026. | Direction and review | [zaoos.com](https://zaoos.com) / [GitHub](https://github.com/bettercallzaal/ZAOOS) / [Research](https://github.com/bettercallzaal/ZAOOS/tree/main/research) |
 | **The ZAO bounty board** | Paid bounties on POIDH, judged in public. | I run the rounds | [poidhz.com](https://poidhz.com) |
@@ -61,7 +62,7 @@ Everything public is on one live page: the [repo dashboard](https://bettercallza
 
 **Also in the open**
 
-- [Zlank](https://zlank.vercel.app): a no-code builder for Farcaster Snaps, and the Snap-category winner at FarHack 2026. [Repo](https://github.com/bettercallzaal/zlank).
+- [Zlank](https://zlank.vercel.app): a no-code builder for Farcaster Snaps, built for FarHack Online 2026, Snaps track. [Repo](https://github.com/bettercallzaal/zlank).
 - [Sparkz](https://trysparkz.com): start with a spark, not a token. A home for a creative project, with identity, backers and receipts, before any coin exists. Early. [Repo](https://github.com/bettercallzaal/sparkz).
 - [ZOL](https://github.com/bettercallzaal/zol): The ZAO's music scout on Farcaster.
 - [ZABAL](https://zabal.art): a weekly vote on where The ZAO focuses: music, governance, events or build.
@@ -126,13 +127,13 @@ ZAO Fractal stands on other people's work. The idea was formalized by Daniel Lar
 
 Most of what The ZAO ships lives at [github.com/ZAODEVZ](https://github.com/ZAODEVZ), the team GitHub for The ZAO. This account holds my own projects and the ZAO OS lab; ZAO DEVZ holds the ones the team builds and runs together.
 
-<!-- ZAAL: one or two lines here, in your own words, on what you are building in ZAO DEVZ and why. -->
+ZAO DEVZ builds the websites and tools used by The ZAO's events and community programs. This team account is where those shared projects live; the table below shows what each one does.
 
 | Repo | What it is | Live |
 |---|---|---|
 | [ZAOstock](https://github.com/ZAODEVZ/ZAOstock) | The festival site and its tooling | [zaostock.com](https://zaostock.com) |
 | [zabalgames](https://github.com/ZAODEVZ/zabalgames) | The ZABAL Gamez site | [zabalgamez.com](https://zabalgamez.com) |
-| [ZAOfractal](https://github.com/ZAODEVZ/ZAOfractal) | Home of ZAO Fractal, the weekly Respect Game, Mondays at 6pm EST since 2024 | [zaofractal.vercel.app](https://zaofractal.vercel.app) |
+| [ZAOfractal](https://github.com/ZAODEVZ/ZAOfractal) | Home of ZAO Fractal, the weekly Respect Game, Mondays at 6pm Eastern since 2024 | [zaofractal.vercel.app](https://zaofractal.vercel.app) |
 | [ZAOcowork](https://github.com/ZAODEVZ/ZAOcowork) | The team's shared task board, with a Telegram bot writing to it | [thezao.xyz](https://thezao.xyz) |
 | [ZAOscout](https://github.com/ZAODEVZ/ZAOscout) | Read Reddit, X and Farcaster from the command line, with no API keys or login | [Site](https://za-oscout.vercel.app) |
 | [Zuke](https://github.com/ZAODEVZ/Zuke) | Live audio rooms for Farcaster communities, powered by Juke | [zuke.thezao.com](https://zuke.thezao.com) |
@@ -194,13 +195,13 @@ After two large organizations, I am ready for a more agile one.
 
 <a name="how-i-work-with-ai-agents"></a>
 <details>
-<summary><b>How I work with AI agents</b>: one human merge, written rules, checks that can fail</summary>
+<summary><b>How I work with AI agents</b>: pull requests, written rules, checks that can fail</summary>
 
 <br>
 
-I do not hand-write code. I direct AI agent lanes, design the systems they work in, review what they produce and make the calls. That is most of my day, and it is public.
+I do not hand-write code. I direct AI agent lanes, design the systems they work in, review what they produce and make the calls. Examples are linked below.
 
-- **One human merge.** Agents open pull requests. They do not merge, post, send or spend. I do.
+- **Pull requests under written rules.** Agents propose repository work through pull requests, with the rules and review steps written down.
 - **Written rules, read first.** A live state file, an operating-rules file and a decisions file, with one dated file per ruling in my own words.
 - **Structure over reminders.** Rules enforced by a hook held far better than rules agents were asked to remember, so a failure that keeps recurring gets a tool, not another note.
 - **Checks that can fail.** The most common failure was a tool that reported empty or green when it could not read its source. The answer was a checking tool with its own "could not run" exit code.
@@ -216,7 +217,7 @@ What that looks like in public:
 How each project was built:
 
 - **ZAOstock:** I organized and ran the event. The festival site and stream tooling were built by my team and by agent lanes under my direction.
-- **WaveWarZ:** the platform has its own developer. I own the public analytics, [wwtracker](https://wwtracker.vercel.app), and directed agent lanes to do the repository work under one rule: pull requests only, and I merge.
+- **WaveWarZ:** the platform has its own developer. I own the public analytics, [wwtracker](https://wwtracker.vercel.app), and directed agent lanes to do repository work through pull requests under written rules.
 - **ZABAL Gamez:** I locked the format, prizes and dates and made the calls. Agent lanes I directed built and maintained [the site](https://github.com/ZAODEVZ/zabalgames).
 - **The ZAO:** I write and publish the newsletter with a co-reviewer, and I am the final authority on anything outbound or irreversible. The [newsletter tooling](https://github.com/bettercallzaal/zaoonparagraph) and [ZAO OS](https://github.com/bettercallzaal/ZAOOS) are built by agent lanes I direct.
 
@@ -269,7 +270,7 @@ The ZAO is that idea pointed at music. Artists hold their own margin, data and r
 
 <br>
 
-**Me:** [bettercallzaal.com](https://bettercallzaal.com) | [Resume](https://bettercallzaal.com/resume/) | [Portfolio](https://bettercallzaal.com/portfolio/) | [Projects](https://bettercallzaal.com/projects/) | [Brand kit](https://bettercallzaal.com/kit.html) | [Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [YouTube](https://www.youtube.com/@bettercallzaal) | [Twitch](https://www.twitch.tv/bettercallzaal) | [Instagram](https://www.instagram.com/bettercallzaal/) | [LinkedIn](https://www.linkedin.com/in/zaalp/) | [BCZ YapZ](https://bczyapz.com) | [Email](mailto:zaalp99@gmail.com) | [Book a call](https://cal.com/bettercallzaal) | [Services](SERVICES.md)
+**Me:** [bettercallzaal.com](https://bettercallzaal.com) | [Resume](https://bettercallzaal.com/resume/) | [Portfolio](https://bettercallzaal.com/portfolio/) | [Projects](https://bettercallzaal.com/projects/) | [Brand kit](https://bettercallzaal.com/kit.html) | [Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [YouTube](https://www.youtube.com/@bettercallzaal) | [Twitch](https://www.twitch.tv/bettercallzaal) | [Instagram](https://www.instagram.com/bettercallzaal/) | [BCZ YapZ](https://bczyapz.com) | [Email](mailto:zaalp99@gmail.com) | [Book a call](https://cal.com/bettercallzaal) | [Services](SERVICES.md)
 
 **For AI agents:** my context box at [context.thezao.com/bettercallzaal](https://context.thezao.com/bettercallzaal) and The ZAO's at [context.thezao.com/thezao](https://context.thezao.com/thezao). Plain text, written to be read by a model. Every ZAO box is listed at [context.thezao.com](https://context.thezao.com).
 
@@ -283,14 +284,10 @@ The ZAO is that idea pointed at music. Artists hold their own margin, data and r
 
 **Everything else:** [ZABAL Gamez](https://zabalgamez.com) | [Bounty board](https://poidhz.com) | [COC Concertz](https://cocconcertz.com) | [Farcaster /cocconcertz](https://farcaster.xyz/~/channel/cocconcertz) | [Zuke](https://zuke.thezao.com) | [Zlank](https://zlank.vercel.app) | [Sparkz](https://trysparkz.com) | [ZAO MixZ](https://zaomixz.vercel.app) | [FISHBOWLZ, ended May 2026](https://www.fishbowlz.com) | [North Creek](https://northcreekme.com) | [ZAO OS on GitHub](https://github.com/bettercallzaal/ZAOOS) | [Every repo, one page](https://bettercallzaal.github.io/zao-repos/)
 
-<!-- ZAAL: MemeBook (zao.lol) is off this list because zao.lol now forwards to a me.lol shirt store, not MemeBook. Put it back when the domain points home. -->
-
 </details>
 
 ---
 
 ## Disclaimer
 
-<!-- ZAAL: the "I have no idea what I'm doing" image goes on the line below. -->
-
-I never hand-write code, to be honest. Everything here is built by directing AI agents, so I would appreciate any and all fixes and anything that might help me. Feel free to DM me on any social, or tag me anywhere.
+I do not hand-write code. I direct AI agents, review what they produce and make the calls. Specific fixes and feedback are welcome.

@@ -16,13 +16,9 @@ We talk through what you need. After the call I send you an agenda or a short re
 
 [Ask for the $5 consult](mailto:zaalp99@gmail.com?subject=Consult%20booking)
 
-<!-- ZAAL: once the $5 is taken on the Cal.com event itself (or a Stripe link exists), both "Ask for the $5 consult" links can point straight at it. It was a PASTE placeholder, so it pointed nowhere. -->
-
 ## Working together: $100 an hour
 
 I tell you the hours up front, from the agenda. If the rate doesn't work for you, say so and we'll figure it out. Already working with me? [Email me](mailto:zaalp99@gmail.com) for the payment link.
-
-<!-- ZAAL: the $100 an hour Stripe link goes here once it exists. It was a PASTE placeholder. -->
 
 ## 1. Your site, in your name
 
