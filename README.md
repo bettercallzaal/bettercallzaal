@@ -270,7 +270,7 @@ The ZAO is that idea pointed at music. Artists hold their own margin, data and r
 
 <br>
 
-**Me:** [bettercallzaal.com](https://bettercallzaal.com) | [Resume](https://bettercallzaal.com/resume/) | [Portfolio](https://bettercallzaal.com/portfolio/) | [Projects](https://bettercallzaal.com/projects/) | [Brand kit](https://bettercallzaal.com/kit.html) | [Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [YouTube](https://www.youtube.com/@bettercallzaal) | [Twitch](https://www.twitch.tv/bettercallzaal) | [Instagram](https://www.instagram.com/bettercallzaal/) | [BCZ YapZ](https://bczyapz.com) | [Email](mailto:zaalp99@gmail.com) | [Book a call](https://cal.com/bettercallzaal) | [Services](SERVICES.md)
+**Me:** [bettercallzaal.com](https://bettercallzaal.com) | [Resume](https://bettercallzaal.com/resume/) | [Portfolio](https://bettercallzaal.com/portfolio/) | [Projects](https://bettercallzaal.com/projects/) | [Brand kit](https://bettercallzaal.com/kit.html) | [Farcaster](https://farcaster.xyz/zaal) | [X](https://x.com/bettercallzaal) | [YouTube](https://www.youtube.com/@bettercallzaal) | [Twitch](https://www.twitch.tv/bettercallzaal) | [Instagram](https://www.instagram.com/bettercallzaal/) | [BCZ YapZ](https://bczyapz.com) | [Book a call](https://cal.com/bettercallzaal) | [Services](SERVICES.md)
 
 **For AI agents:** my context box at [context.thezao.com/bettercallzaal](https://context.thezao.com/bettercallzaal) and The ZAO's at [context.thezao.com/thezao](https://context.thezao.com/thezao). Plain text, written to be read by a model. Every ZAO box is listed at [context.thezao.com](https://context.thezao.com).
 
